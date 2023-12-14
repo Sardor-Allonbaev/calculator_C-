@@ -1,0 +1,10 @@
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\bin\Debug\To_Do_List_app.exe.config
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\bin\Debug\To_Do_List_app.exe
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\bin\Debug\To_Do_List_app.pdb
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.csproj.AssemblyReference.cache
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.ToDoList.resources
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.Properties.Resources.resources
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.csproj.GenerateResource.cache
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.csproj.CoreCompileInputs.cache
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.exe
+D:\Сomp_science\c_sharp\To_Do_List_app\To_Do_List_app\obj\Debug\To_Do_List_app.pdb
